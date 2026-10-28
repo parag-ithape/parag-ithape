@@ -4,7 +4,7 @@ Senior QA Engineer / SDET with 4+ years building test automation for web and API
 I set up frameworks teams actually keep running, and I'm exploring how LLMs can speed up test design.
 
 **Currently:** QA Lead at R Systems, Pune
-**Open to:** full-time Senior QA / SDET roles and freelance QA engagements
+
 
 ### 🛠 Stack
 **UI:** Selenium (Java), Playwright (TypeScript), Cucumber BDD, TestNG
