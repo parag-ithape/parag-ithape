@@ -14,7 +14,7 @@ I build frameworks teams actually keep running, and I use LLMs to speed up test 
 
 ### 📌 Featured projects
 
-**🏦 [ParaBank UI + API Test Automation](https://github.com/parag-ithape/parabank-ui-api-automation)** [![Tests](https://github.com/parag-ithape/parabank-ui-api-automation/actions/workflows/tests.yml/badge.svg)](https://github.com/parag-ithape/parabank-ui-api-automation/actions/workflows/tests.yml)
+**🏦 [ParaBank UI + API Test Automation](https://github.com/parag-ithape/parabank-ui-api-automation)**[![Tests](https://github.com/parag-ithape/parabank-ui-api-automation/actions/workflows/banktest.yml/badge.svg?branch=main)](https://github.com/parag-ithape/parabank-ui-api-automation/actions/workflows/banktest.yml)
 Banking test suite in one Java framework: Selenium + Cucumber BDD for the UI, REST Assured for the API, and hybrid scenarios (API setup → UI action → API check). 46-case test plan, locators in per-page files, CI against a private ParaBank container on Chrome and Firefox. _In progress: registration and login done; accounts, transfers, bill pay and loans next._
 
 **🛒 [E-commerce API Test Automation](https://github.com/parag-ithape/ecom-api-test)** [![API Tests](https://github.com/parag-ithape/ecom-api-test/actions/workflows/api-tests.yml/badge.svg)](https://github.com/parag-ithape/ecom-api-test/actions/workflows/api-tests.yml)
